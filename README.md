@@ -1,4 +1,4 @@
-# LearningAlgoritmaInJava
+# LearningAlgorithmInJava
 This my learning algorithm
 # Big o Compelexity
 ![image](https://user-images.githubusercontent.com/58914195/159150971-16847e07-0edf-4528-af70-bad644d4b1af.png)
