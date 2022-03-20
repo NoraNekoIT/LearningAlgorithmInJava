@@ -2,6 +2,7 @@ package Search;
 
 public class BinarySearch {
     /*
+        Disorted dulu
         Dimulai dari tengah,
         Misal 1-100
         50,75,63,57
